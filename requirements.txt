@@ -1,0 +1,9 @@
+django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+python-dotenv
+django-jet-reboot
+drf-yasg
+gunicorn
+whitenoise
